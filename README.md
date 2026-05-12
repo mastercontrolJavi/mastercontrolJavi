@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mastercontrolJavi/mastercontrolJavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Javier Padilla
 
-Here are some ideas to get you started:
+Builder at the intersection of design, product, and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently shipping internal tools as a Business Intern at a global agriculture company. 
+Relocating to the US in July 2026.
+
+**Stack:** Next.js · TypeScript · React · Supabase · Tailwind · shadcn/ui
+
+**Now:** Finishing internship, building in public, shipping things I own.
+
+---
+
+[Portfolio](https://javiertpadilla.com) · [LinkedIn](https://www.linkedin.com/in/javiertpadilla/) · javiertpadilla.com
