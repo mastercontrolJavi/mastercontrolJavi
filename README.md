@@ -2,14 +2,11 @@
 
 # Javier Padilla
 
-Builder at the intersection of design, product, and engineering.
-
-Currently shipping internal tools as a Business Intern at a global agriculture company. 
-Relocating to the US in July 2026.
+I'm a builder at the intersection of design, product, and engineering.
 
 **Stack:** Next.js · TypeScript · React · Supabase · Tailwind · shadcn/ui
 
-**Now:** Finishing internship, building in public, shipping things I own.
+**Now:** creating, building in public, shipping things I own.
 
 ---
 
