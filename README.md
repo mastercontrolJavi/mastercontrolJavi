@@ -1,6 +1,6 @@
 <div align="center">
 
-# Javier Padilla
+# Javier T. Padilla
 
 <a href="https://github.com/mastercontrolJavi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2962FF&center=true&vCenter=true&width=560&lines=Builder+%26+designer.;Design+in+Figma%2C+ship+in+React.;Details+aren't+decoration.+They're+the+work." alt="typing tagline" />
@@ -49,11 +49,11 @@ I design in Figma and ship in React. No handoff.
 
 ### What I'm building
 
-- [`path-pilot`](https://github.com/mastercontrolJavi/path-pilot) - AI career analysis. Upload a CV, get structured guidance across three directions. Next.js · Supabase · OpenAI.
-- [`theme-studio`](https://github.com/mastercontrolJavi/theme-studio) - Live shadcn/ui theme editor. 5 presets, URL-shareable state, paste-ready export.
-- [`rls-policy-generator`](https://github.com/mastercontrolJavi/rls-policy-generator) - Generate Supabase RLS policies visually. No SQL required.
-- [`signal-engine`](https://github.com/mastercontrolJavi/signal-engine) - AI Buy/Sell/Hold dashboard for US equities and crypto. Next.js · Python · Claude.
-- [`axis-os-command`](https://github.com/mastercontrolJavi/axis-os-command) - Personal command center. Terminal-aesthetic dashboard for budget, fitness, and goals.
+- [`path-pilot`](https://github.com/mastercontrolJavi/path-pilot) — AI career analysis. Upload a CV, get structured guidance across three directions. Next.js · Supabase · OpenAI.
+- [`theme-studio`](https://github.com/mastercontrolJavi/theme-studio) — Live shadcn/ui theme editor. 5 presets, URL-shareable state, paste-ready export.
+- [`rls-policy-generator`](https://github.com/mastercontrolJavi/rls-policy-generator) — Generate Supabase RLS policies visually. No SQL required.
+- [`signal-engine`](https://github.com/mastercontrolJavi/signal-engine) — AI Buy/Sell/Hold dashboard for US equities and crypto. Next.js · Python · Claude.
+- [`axis-os-command`](https://github.com/mastercontrolJavi/axis-os-command) — Personal command center. Terminal-aesthetic dashboard for budget, fitness, and goals.
 
 ---
 
