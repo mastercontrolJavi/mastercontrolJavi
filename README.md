@@ -3,11 +3,11 @@
 # Javier T. Padilla
 
 <a href="https://github.com/mastercontrolJavi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2962FF&center=true&vCenter=true&width=560&lines=Builder+%26+designer.;Design+in+Figma%2C+ship+in+React.;Details+aren't+decoration.+They're+the+work." alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2962FF&center=true&vCenter=true&width=560&lines=Builder+%26+designer.;One+person%2C+both+sides+of+the+handoff.;Details+aren't+decoration.+They're+the+work." alt="typing tagline" />
 </a>
 
 **Builder & designer working at the intersection of product and engineering.**
-I design in Figma and ship in React. No handoff.
+I design, build, and ship products I own.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=flat-square&logo=vercel&logoColor=white)](https://javiertpadilla.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2962FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/javiertpadilla)
@@ -22,6 +22,7 @@ I design in Figma and ship in React. No handoff.
 
 `Frontend`
 ![TypeScript](https://img.shields.io/badge/TypeScript-2962FF?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2962FF?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-2962FF?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-2962FF?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2962FF?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -30,6 +31,7 @@ I design in Figma and ship in React. No handoff.
 `Backend & Data`
 ![Supabase](https://img.shields.io/badge/Supabase-2962FF?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2962FF?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2962FF?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2962FF?style=flat-square&logo=python&logoColor=white)
 
 `Design & Motion`
