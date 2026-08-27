@@ -3,7 +3,7 @@
 # Javier T. Padilla
 
 <a href="https://github.com/mastercontrolJavi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2962FF&center=true&vCenter=true&width=560&lines=Builder+%26+designer.;One+person%2C+both+sides+of+the+handoff.;Details+aren't+decoration.+They're+the+work." alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2962FF&center=true&vCenter=true&width=560&lines=Builder+%26+designer.;One+person%2C+both+sides+of+the+table.;Designing+experiences.;Shipping+code.&height=70" alt="typing" />
 </a>
 
 **Builder & designer working at the intersection of product and engineering.**
@@ -51,10 +51,10 @@ I design, build, and ship products I own.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mastercontrolJavi&show_icons=true&hide_border=true&bg_color=00000000&title_color=2962FF&icon_color=2962FF&text_color=808080&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercontrolJavi&layout=compact&hide_border=true&bg_color=00000000&title_color=2962FF&text_color=808080&langs_count=6" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mastercontrolJavi&show_icons=true&hide_border=true&bg_color=00000000&title_color=2962FF&icon_color=2962FF&text_color=808080&include_all_commits=false&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercontrolJavi&layout=compact&hide_border=true&bg_color=00000000&title_color=2962FF&text_color=808080&langs_count=8" alt="languages" />
 
-<img src="https://streak-stats.demolab.com?user=mastercontrolJavi&hide_border=true&background=00000000&ring=2962FF&fire=2962FF&currStreakLabel=2962FF&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=808080&dayLabels=808080&stroke=808080" alt="streak" height="165" />
+<img src="https://streak-stats.demolab.com?user=mastercontrolJavi&hide_border=true&background=00000000&ring=2962FF&fire=2962FF&currStreakLabel=2962FF&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=808080" alt="streak" />
 
 </div>
 
