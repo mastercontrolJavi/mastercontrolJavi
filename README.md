@@ -12,6 +12,7 @@ I design, build, and ship products I own.
 [![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=flat-square&logo=vercel&logoColor=white)](https://javiertpadilla.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2962FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/javiertpadilla)
 [![Email](https://img.shields.io/badge/Email-2962FF?style=flat-square&logo=gmail&logoColor=white)](mailto:javiertpga@gmail.com)
+
 ![Profile views](https://komarev.com/ghpvc/?username=mastercontrolJavi&color=2962FF&style=flat-square&label=Profile+views)
 
 </div>
@@ -47,15 +48,4 @@ I design, build, and ship products I own.
 ![OpenAI](https://img.shields.io/badge/OpenAI-2962FF?style=flat-square&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-2962FF?style=flat-square)
 
-
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mastercontrolJavi&show_icons=true&hide_border=true&bg_color=00000000&title_color=2962FF&icon_color=2962FF&text_color=808080&include_all_commits=false&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercontrolJavi&layout=compact&hide_border=true&bg_color=00000000&title_color=2962FF&text_color=808080&langs_count=8" alt="languages" />
-
-<img src="https://streak-stats.demolab.com?user=mastercontrolJavi&hide_border=true&background=00000000&ring=2962FF&fire=2962FF&currStreakLabel=2962FF&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=808080" alt="streak" />
-
-</div>
-
-[Portfolio](https://javiertpadilla.com) · [LinkedIn](https://www.linkedin.com/in/javiertpadilla/) 
+[Portfolio](https://javiertpadilla.com) · [LinkedIn](https://www.linkedin.com/in/javiertpadilla/)
